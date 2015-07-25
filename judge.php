@@ -1,8 +1,10 @@
 <?php
 
 /*
- * Judge Rock Scissors Paper with one line code.
+ * This software is released under the MIT License, see LICENSE.txt.
  *
+ *
+ * Judge Rock Scissors Paper with one line code.
  * Run `php test_judge.php` to see it really works!
  */
 

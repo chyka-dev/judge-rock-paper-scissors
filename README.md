@@ -12,6 +12,8 @@ Run.
 php test_judge.php
 ```
 
+Send me pull requests if you have more sophisticated solutions.
+
 [日本語]
 
 一行のコードでじゃんけんの結果を判定します.
@@ -23,3 +25,5 @@ php test_judge.php
 ```sh
 php test_judge.php
 ```
+
+よりエレガントな解があったらプルリクエストを送ってください.

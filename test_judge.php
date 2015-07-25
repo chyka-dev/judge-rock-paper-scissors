@@ -1,4 +1,8 @@
 <?php
+/*
+ * This software is released under the MIT License, see LICENSE.txt.
+ */
+
 
 require_once "judge.php";
 
